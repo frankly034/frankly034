@@ -1,34 +1,51 @@
-👋 Fullstack Developer | TypeScript, Next.js, Nest.js, Django, Docker | Knowledge Sharing Enthusiast 📚
+<style>
+  .font-large {
+    font-size: 18px;
+    font-weight: 500;
+  }
 
-Hello! I'm Lewis Ugege, a Fullstack Developer with a passion for crafting web applications using TypeScript, Next.js, Nest.js, Django, and Docker.
+  .title {
+    font-size: 16px;
+    font-weight: 500;
+  }
 
-🌐 Frontend Focus:
+  .highlight {
+    color: skyblue;
+    font-size: 13px;
+  }
+</style>
+
+<p class="highlight">👋 Fullstack Developer | TypeScript, Next.js, Nest.js, Django, Docker | Knowledge Sharing Enthusiast 📚</p>
+
+<span class="font-large">Hello! I'm Lewis Ugege</span>, a Fullstack Developer with a passion for crafting web applications using TypeScript, Next.js, Nest.js, Django, and Docker.
+
+<p class="title">🌐 Frontend Focus:</p>
 
 Building beautiful, responsive user interfaces with Next.js.
 Ensuring a smooth user experience through thoughtful design.
 
-🧠 Backend Brilliance:
+<p class="title">🧠 Backend Brilliance:</p>
 
 Crafting robust APIs with Nest.js.
 Ensuring backend systems are secure and scalable.
 
-🐍 Django Devotion:
+<p class="title">🐍 Django Devotion:</p>
 
 Leveraging Django for efficient backend solutions.
 Building custom CMS and e-commerce platforms.
 
-🐳 Docker Fan:
+<p class="title">🐳 Docker Fan:</p>
 
 Using Docker to simplify deployment and orchestration.
 Keeping environments consistent and efficient.
 
-📚 Sharing Knowledge:
+<p class="title">📚 Sharing Knowledge:</p>
 
 I love sharing what I've learned with others.
 Writing tutorials and creating educational content.
 Helping fellow developers grow their skills.
 
-💬 Let's Connect:
+<p class="title">💬 Let's Connect:</p>
 
 📧 Email: [franklynugege@gmail.com](mailto:franklynugege@gmail.com)
 
