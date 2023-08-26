@@ -1,20 +1,3 @@
-<style>
-  .font-large {
-    font-size: 18px;
-    font-weight: 500;
-  }
-
-  .title {
-    font-size: 16px;
-    font-weight: 500;
-  }
-
-  .highlight {
-    color: skyblue;
-    font-size: 13px;
-  }
-</style>
-
 <p class="highlight">👋 Fullstack Developer | TypeScript, Next.js, Nest.js, Django, Docker | Knowledge Sharing Enthusiast 📚</p>
 
 <span class="font-large">Hello! I'm Lewis Ugege</span>, a Fullstack Developer with a passion for crafting web applications using TypeScript, Next.js, Nest.js, Django, and Docker.
